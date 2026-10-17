@@ -84,6 +84,6 @@ I'm a full-stack software engineer who enjoys turning complex problems into clea
 
 [![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_simply.y0u/)
 [![Email](https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](olasupojohn417@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_my_work-000?style=for-the-badge&logo=vercel&logoColor=white)]((https://personal-finance-tracker-eight-blue.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_my_work-000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-finance-tracker-eight-blue.vercel.app/)
 
 </div>
