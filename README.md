@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Python+%2B+FastAPI+%2B+React;Node.js+%7C+TypeScript+%7C+JavaScript;PostgreSQL+%7C+MongoDB+%7C+Prisma;Docker+%7C+Kubernetes+%7C+Jenkins)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-site.com](https://personal-finance-tracker-eight-blue.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-finance-tracker-eight-blue.vercel.app/login)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_simply.y0u/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](olasupojohn417@gmail.com)
 
